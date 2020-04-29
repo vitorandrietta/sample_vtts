@@ -3,8 +3,8 @@ WEBVTT
 STYLE
 ::cue {
   background-image: linear-gradient(to bottom, dimgray, lightgray);
-  color: papayawhip;
+  color: black;
 }
 
 00:00:00.500 --> 00:40:10.000 line:1
-This is a sample subtitle
+This is a sample caption
